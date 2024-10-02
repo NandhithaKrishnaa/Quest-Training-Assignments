@@ -1,3 +1,8 @@
+/*Count the number of one 's in the binary of given number
+
+02/10/2024 19:10
+NandhithaKrishna*/
+
 #include<stdio.h>
 
 void main(){
